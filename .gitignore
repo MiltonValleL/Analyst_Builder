@@ -1,0 +1,28 @@
+# Jupyter Notebook checkpoints (auto-generated)
+.ipynb_checkpoints/
+
+# OS-generated files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Personal drafts not meant for the repo
+conda_analyst_env.odt
+
+# Datasets — se conservan localmente, NO se versionan.
+# Se documenta su origen (link del curso) en lugar de subirlos.
+datasets/
+*.csv
+*.xlsx
+*.tsv
+
+EOF
