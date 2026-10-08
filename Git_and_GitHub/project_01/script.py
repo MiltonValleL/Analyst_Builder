@@ -1,3 +1,5 @@
 print('This is the first project on this GitHub repository')
 
-print("...let's start practicing with this project")
+print("NOTE: This project is part of the Git and Github course from Analyst Builder platform")
+
+print("\n...let's start practicing with this project")
